@@ -1,5 +1,5 @@
 ---
-title: "A Review of Bovada?"
+title: "A Review of Bovada"
 excerpt_separator: "<!--more-->"
 categories:
   - Reviews
