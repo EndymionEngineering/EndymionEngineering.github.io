@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Join Now"
     url: /posts/
-  - title: "Categories"
+  - title: "Login"
     url: /categories/
-  - title: "Tags"
+  - title: "FAQs"
     url: /tags/
-  - title: "About"
-    url: /about/
