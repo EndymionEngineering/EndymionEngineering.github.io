@@ -1,7 +1,5 @@
 main:
   - title: "Join Now"
-    url: /posts/
-  - title: "Login"
-    url: /categories/
+    url: "https://www.bovada.lv/"
   - title: "FAQs"
     url: /tags/
