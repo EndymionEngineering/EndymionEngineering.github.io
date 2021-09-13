@@ -86,3 +86,9 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-T7061X4Z0D"
+    anonymize_ip: false # default
