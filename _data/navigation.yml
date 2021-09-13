@@ -1,7 +1,7 @@
 main:
   - title: "Join Bovada Now"
     url: "https://www.bovada.lv/welcome/P0YXLE3/join?extcmpid=rafcopy"
-   - title: "Login to Bovada"
+  - title: "Login to Bovada"
     url: "https://www.bovada.lv/welcome/P0YXLE3/join?extcmpid=rafcopy"
   - title: "FAQs"
     url: /categories/
